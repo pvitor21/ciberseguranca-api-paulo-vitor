@@ -1,0 +1,7 @@
+br\com\paulovitor\cibersegurancaapi\repository\EquipamentoRepository.class
+br\com\paulovitor\cibersegurancaapi\model\Equipamento.class
+br\com\paulovitor\cibersegurancaapi\controller\IncidenteController.class
+br\com\paulovitor\cibersegurancaapi\CibersegurancaApiApplication.class
+br\com\paulovitor\cibersegurancaapi\controller\EquipamentoController.class
+br\com\paulovitor\cibersegurancaapi\model\Incidente.class
+br\com\paulovitor\cibersegurancaapi\repository\IncidenteRepository.class
